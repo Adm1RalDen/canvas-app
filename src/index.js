@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react';
 import { render } from 'react-dom';
-import Portal from './Portal';
+// import Portal from './Components/Portal';
 import { Stage, Layer, Rect, Group, Arrow } from 'react-konva';
 
 
@@ -25,7 +25,8 @@ function ColoredRect(props) {
                 draggable
                 onDragMove={handleDrag}
             />
-            <Portal>
+            {/* інпут прибра для кращої візуалізації */}
+            {/* <Portal>
                 <div>
                     <input style={{
                         position: 'absolute',
@@ -35,7 +36,7 @@ function ColoredRect(props) {
                     }}
                         type='text' placeholder='some text'></input>
                 </div>
-            </Portal>
+            </Portal> */}
         </Group>
     );
 
