@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/canvas-app/static/js/main.bf7d1b61.chunk.js",
-    "main.js.map": "/canvas-app/static/js/main.bf7d1b61.chunk.js.map",
+    "main.js": "/canvas-app/static/js/main.1ddb358a.chunk.js",
+    "main.js.map": "/canvas-app/static/js/main.1ddb358a.chunk.js.map",
     "runtime~main.js": "/canvas-app/static/js/runtime~main.4dbdfc62.js",
     "runtime~main.js.map": "/canvas-app/static/js/runtime~main.4dbdfc62.js.map",
-    "static/js/2.424506d6.chunk.js": "/canvas-app/static/js/2.424506d6.chunk.js",
-    "static/js/2.424506d6.chunk.js.map": "/canvas-app/static/js/2.424506d6.chunk.js.map",
+    "static/js/2.ea699892.chunk.js": "/canvas-app/static/js/2.ea699892.chunk.js",
+    "static/js/2.ea699892.chunk.js.map": "/canvas-app/static/js/2.ea699892.chunk.js.map",
     "index.html": "/canvas-app/index.html",
-    "precache-manifest.1044b715e87a181228f28ee67e4a0d2a.js": "/canvas-app/precache-manifest.1044b715e87a181228f28ee67e4a0d2a.js",
+    "precache-manifest.b94662185a59d2a28c50f18092e9fbae.js": "/canvas-app/precache-manifest.b94662185a59d2a28c50f18092e9fbae.js",
     "service-worker.js": "/canvas-app/service-worker.js"
   }
 }
